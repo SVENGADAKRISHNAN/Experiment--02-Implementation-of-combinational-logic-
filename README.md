@@ -54,8 +54,6 @@ endmodule
 ```
 ## OUTPUT
 ## RTL realization
-
-
 ![D2](https://github.com/SVENGADAKRISHNAN/Experiment--02-Implementation-of-combinational-logic-/assets/147473084/7fe40289-9e34-4dfd-9d99-37f265651673)
 
 
